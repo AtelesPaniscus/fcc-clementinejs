@@ -1,0 +1,38 @@
+{
+  "name": "clementinejs-fcc",
+  "description": "The elegant and lightweight boilerplate for full stack JavaScript.",
+  "version": "1.0.0",
+  "author": "Blake Johnston",
+  "license": "MIT",
+  "homepage": "http://www.clementinejs.com/",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.12.4",
+    "express-session": "^1.11.3",
+    "mongoose": "^4.1.0",
+    "passport": "^0.3.0",
+    "passport-github": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnstonbl01/clementinejs-fcc"
+  },
+  "keywords": [
+    "fcc",
+    "full stack",
+    "MongoDB",
+    "Mongoose",
+    "Clementine",
+    "Express",
+    "Node",
+    "javascript",
+    "boilerplate"
+  ]
+}
